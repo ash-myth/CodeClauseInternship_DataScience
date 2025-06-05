@@ -63,11 +63,14 @@ This project involved building a classification model using employee data to pre
 
 ---
 
-## 📂 Repository Structure  
+## 📂 Repository Structure
+```text
+📦 CodeClause-Internship-Projects
 ├── Iris_EDA_Project.ipynb
 ├── Employee_Attrition_Prediction.ipynb
-├── README.md
-
+├── WA_Fn-UseC_-HR-Employee-Attrition.csv
+└── README.md
+```
 ---
 
 ## 📌 Note  
